@@ -94,7 +94,8 @@ Personalized dashboards restricted to each sales representative:
 - Monthly or selected period performance  
 - Year-to-date statistics  
 - Personal customer portfolio  
-[Prod Sales Team 4.pdf](https://github.com/user-attachments/files/24849738/Prod.Sales.Team.4.pdf)
+![Prod Sales Team 4](https://github.com/user-attachments/assets/1dd786bd-7d26-4026-b592-0bb3fe4031bd)
+
 
 ---
 
