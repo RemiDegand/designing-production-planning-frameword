@@ -86,7 +86,8 @@ Provides a consolidated view of the Business Unit’s activity:
 - Sales representatives’ performance  
 - Year-to-date statistics  
 - Customer base overview  
-[Prod Global Current Month.pdf](https://github.com/user-attachments/files/24849735/Prod.Global.Current.Month.pdf)
+![Prod Global Current Month](https://github.com/user-attachments/assets/c2e2eb2d-a831-4783-be8c-686faee058f2)
+
 
 #### 👤 Individual Sales Dashboards
 Personalized dashboards restricted to each sales representative:
