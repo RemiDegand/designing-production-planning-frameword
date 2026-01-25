@@ -86,12 +86,14 @@ Provides a consolidated view of the Business Unit’s activity:
 - Sales representatives’ performance  
 - Year-to-date statistics  
 - Customer base overview  
+[Prod Global Current Month.pdf](https://github.com/user-attachments/files/24849735/Prod.Global.Current.Month.pdf)
 
 #### 👤 Individual Sales Dashboards
 Personalized dashboards restricted to each sales representative:
 - Monthly or selected period performance  
 - Year-to-date statistics  
 - Personal customer portfolio  
+[Prod Sales Team 4.pdf](https://github.com/user-attachments/files/24849738/Prod.Sales.Team.4.pdf)
 
 ---
 
